@@ -1,3 +1,6 @@
 [submodule "LaundryWise-backend"]
 	path = LaundryWise-backend
 	url = https://github.com/canberkanar/LaundryWise-backend/
+[submodule "LaundryWise-frontend"]
+	path = LaundryWise-frontend
+	url = https://github.com/canberkanar/LaundryWise-frontend/
